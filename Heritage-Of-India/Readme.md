@@ -11,7 +11,7 @@ This sample application is built using Atom.
 
 ## License:
 
-See [License] Srikrithi, Srinithi
+See [License] Chandrasekar
 
 ## Contributing
 
